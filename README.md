@@ -8,3 +8,15 @@ The code includes callbacks to save the best model during training and stop trai
 The repository also includes a script to visualize the training and validation accuracy and loss using Matplotlib.
 
 To use this code, download or clone the repository and run the Python script. Make sure to have the necessary dependencies installed and the dataset path correctly specified.
+
+# **Dataset**
+
+The dataset used to train and test the model is located in the train and test folders, respectively. The dataset consists of 10 different categories of images. The train folder contains 8,000 images and the test folder contains 2,000 images.
+# Dependencies
+
+- Python 3.x
+- Keras
+- TensorFlow
+- Matplotlib
+# Results
+The model achieved an accuracy of 95% on the validation set after training for 20 epochs.
