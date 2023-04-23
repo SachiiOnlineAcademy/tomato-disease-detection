@@ -1,4 +1,4 @@
-#Done by EzekielChimana
+# Done by Ezekiel Chimana
 # tomato-disease-detection
 This repository contains code for a tomato disease detection model based on Convolutional Neural Networks (CNNs). The model is trained using a dataset of tomato plant images with different types of diseases. The dataset is split into training and testing subsets, and data augmentation techniques such as rescaling, shearing, zooming, and flipping are used to increase the diversity of the training data.
 
