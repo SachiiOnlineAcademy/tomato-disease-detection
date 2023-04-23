@@ -8,7 +8,7 @@ The code includes callbacks to save the best model during training and stop trai
 The repository also includes a script to visualize the training and validation accuracy and loss using Matplotlib.
 
 To use this code, download or clone the repository and run the Python script. Make sure to have the necessary dependencies installed and the dataset path correctly specified.
-To **watch a demo** of this project, check out this **YouTube video** .
+To **watch a demo** of this project, check out this **YouTube video** https://youtu.be/l292-TEWBJ0 .
 
 # **Dataset**
 
